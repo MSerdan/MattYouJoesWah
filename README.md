@@ -69,7 +69,7 @@ Building and refining my personal portfolio and digital space:
 ## 📫 Connect With Me
 
 - Website: https://mserdan.co
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/MSerdan
 - LinkedIn: YOUR_LINKEDIN
 
 ---
